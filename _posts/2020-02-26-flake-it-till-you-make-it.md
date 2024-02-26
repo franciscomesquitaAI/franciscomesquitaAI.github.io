@@ -9,4 +9,4 @@ tags: [books, test]
 author: Sharon Smith and Barry Simpson
 ---
 
-{% include_relative https://github.com/franciscomesquitaAI/Learning_Notes/README.md %}
+xc
