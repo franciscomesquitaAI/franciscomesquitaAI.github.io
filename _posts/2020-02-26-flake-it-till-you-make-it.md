@@ -7,6 +7,8 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 author: Sharon Smith and Barry Simpson
+comments: true
+published: true
 ---
 
 {% include_relative Learning_Notes/ML-DataScience/Concepts/Bongard-Problems/Bongard-Problems.md %}
