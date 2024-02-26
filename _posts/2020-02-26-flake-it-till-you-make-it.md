@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: Bongard Problems
+subtitle: Distinguishing patterns between two sets of simple shapes.
+cover-img: /assets/img/Bongard_cover.jpg
 thumbnail-img: /assets/img/Bongard_Thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+share-img: /assets/img/Bongard_cover.jpg
+tags: [Mind games, Puzzle, AI]
 comments: true
 published: true
 ---
