@@ -9,4 +9,4 @@ tags: [books, test]
 author: Sharon Smith and Barry Simpson
 ---
 
-{% include_relative Learning_Notes/README.md %}
+{% include_relative Learning_Notes/ML and DataScience/Concepts/Bongard Problems/Bongard Problems.md %}
