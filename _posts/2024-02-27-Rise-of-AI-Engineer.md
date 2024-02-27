@@ -3,7 +3,6 @@ layout: post
 title: The Rise of the AI Engineer
 subtitle: One can be quite successful in this role without ever training anything!
 tags: [ML-DataScience, Web-Article, AI]
-thumbnail-img: /assets/img/Ai_Engineer_thumb.jpeg
 comments: true
 ---
 
