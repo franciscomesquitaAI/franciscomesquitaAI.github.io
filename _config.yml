@@ -267,7 +267,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "aboutme"
+      path: "/Learning Notes/"
       type: "posts"
     values:
       layout: "post"
