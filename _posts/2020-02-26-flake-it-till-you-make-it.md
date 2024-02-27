@@ -4,8 +4,7 @@ title: Bongard Problems
 subtitle: Distinguishing patterns between two sets of simple shapes.
 cover-img: /assets/img/Bongard_cover.jpg
 thumbnail-img: /assets/img/Bongard_Thumb.png
-share-img: /assets/img/Bongard_cover.jpg
-tags: [Mind games, Puzzle, AI]
+tags: [ML-DataScience, Mind games, Puzzle]
 comments: true
 published: true
 ---
