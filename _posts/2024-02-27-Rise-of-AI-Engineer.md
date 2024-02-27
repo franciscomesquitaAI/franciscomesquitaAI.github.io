@@ -2,9 +2,7 @@
 layout: post
 title: The Rise of the AI Engineer
 subtitle: One can be quite successful in this role without ever training anything!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [ML-DataScience, Web-Article, AI]
-tags: [test]
+tags: [ML-DataScience, Web-Article, AI]
 comments: true
 ---
 
