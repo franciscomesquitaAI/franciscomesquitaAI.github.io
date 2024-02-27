@@ -267,7 +267,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      path: "aboutme"
       type: "posts"
     values:
       layout: "post"
