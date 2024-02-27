@@ -14,14 +14,6 @@ layout: page
       {%- capture thumbnail -%}
         {% if post.thumbnail-img %}
           {{ post.thumbnail-img }}
-        {% elsif post.cover-img %}
-          {% if post.cover-img.first %}
-            <p>Here</p>
-            {{ post.cover-img[0].first.first }}
-          {% else %}
-            <p>Here 2</p>
-            {{ post.cover-img }}
-          {% endif %}
         {% else %}
         {% endif %}
       {% endcapture %}
@@ -33,7 +25,6 @@ layout: page
         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
         </a>
-        <p>Here 3</p>
       </div>
       {% endif %}
       {% endif %}
