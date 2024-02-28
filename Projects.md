@@ -19,10 +19,10 @@ Exploration of different techniques to interpret the result and the logic behind
 - **Seaborn:** Data visualization
 - **Tensorflow:** Deep Learning framework library
 - **OpenCV:** Open source library for computer vision
-<div style="margin-bottom: 1em;">
-</div>
 
+<div style="margin: 1em 0;">
 ---
+</div>
 
 # <a href="https://github.com/franciscomesquitaAI/Translator-English-to-Cherokee" style="color: inherit;">English to Cherokee translator using Transformers</a>
 <div style="margin: 1em 0;">
@@ -32,5 +32,3 @@ Using Transformers to create an English to Cherokee translator, exploring differ
 - **Tensorflow:** Deep Learning framework library
 - **Simple Transformers:** Natural language processing library
 - **Hugging Face:** Open source data science and machine learning platform
-<div style="margin-bottom: 1em;">
-</div>
