@@ -5,7 +5,7 @@ subtitle: The test of all knowledge is experiment. Experiment is the sole judge 
 ---
 
 #  <a href="https://github.com/franciscomesquitaAI/Drowsiness-Detection" style="color: inherit;"> Drowsiness Detection using YOLO </a>
-<div style="margin-bottom: 5px; margin-top: 1rem; onmouseover="this.style.color='red'"">
+<div style="margin-bottom: 5px; margin-top: 1rem;" onmouseover="this.style.color='red'">
 Project aims to develop a computer vision system using YOLO network to detect drowsiness by analyzing facial landmarks and eye movements. It enhances safety, especially in activities like driving, by providing timely alerts to prevent accidents.
 </div>
 - **Pandas:** Data manipulation and analysis
