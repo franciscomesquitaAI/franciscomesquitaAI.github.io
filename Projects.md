@@ -10,7 +10,7 @@ Project focused on developing a computer vision system to detect drowsiness in i
 ---
 
 # <a href="https://github.com/franciscomesquitaAI/CNN-Interpretation" style="color: inherit;">Convolutional Neural Network (CNN) interpretation techniques</a>
-<div style="margin-bottom: 0;">
+<div style="margin-bottom: 5;">
 Exploration of different techniques to interpret the result and the logic behind a prediction made by a convolutional neural network (CNN). These techniques aim to make CNNs more transparent by highlighting important regions or features within an input image that contribute to the model's predictions. CNN interpretation techniques are crucial for understanding and debugging models, ensuring they make accurate and meaningful decisions, and for building trust in AI systems by providing human-interpretable insights into their functioning.
 </div>
 - **Pandas:** Data manipulation and analysis
@@ -21,7 +21,7 @@ Exploration of different techniques to interpret the result and the logic behind
 ---
 
 # <a href="https://github.com/franciscomesquitaAI/Translator-English-to-Cherokee" style="color: inherit;">English to Cherokee translator using Transformers</a>
-<div style="margin-bottom: 0;">
+<div style="margin-bottom: 5;">
 Using Transformers to create an English to Cherokee translator, exploring different pre-trained architectures like BERT and Helsinki NLP.
 </div>
 - **Pandas:** Data manipulation and analysis
