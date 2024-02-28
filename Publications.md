@@ -20,7 +20,7 @@ This research suggests the use of Natural Language Processing (NLP) techniques t
 
 ---
 
-# <a href="https://ieeexplore.ieee.org/abstract/document/9657542" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Oversampling Techniques for Diabetes Classification: a Comparative Study</a>
+## <a href="https://ieeexplore.ieee.org/abstract/document/9657542" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Oversampling Techniques for Diabetes Classification: a Comparative Study</a>
 
 A comparative study on the combination of SMOTE oversampling technique variants and machine learning algorithms for diabetes prediction using the unbalanced “PIMA Indian Diabetes” dataset.
 
@@ -28,7 +28,7 @@ A comparative study on the combination of SMOTE oversampling technique variants 
 
 ---
 
-# <a href="https://link.springer.com/chapter/10.1007/978-3-030-86356-2_22" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Predicting Type 2 Diabetes Through Machine Learning: Performance Analysis in Balanced and Imbalanced Data</a>
+## <a href="https://link.springer.com/chapter/10.1007/978-3-030-86356-2_22" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Predicting Type 2 Diabetes Through Machine Learning: Performance Analysis in Balanced and Imbalanced Data</a>
 
 Addressing the prediction of Type 2 diabetes using the “PIMA Indians Diabetes” dataset. The study involves creating a balanced dataset and evaluating various machine learning methods.
 
