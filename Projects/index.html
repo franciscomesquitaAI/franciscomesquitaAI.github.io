@@ -4,123 +4,53 @@ title: Projects
 subtitle: The test of all knowledge is experiment. Experiment is the sole judge of scientific 'truth'
 ---
 
-<style>
-    .grid-container {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-gap: 20px;
-    }
+<head>
+    <style>
+        .card {
+            width: 100%;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            cursor: pointer;
+            transition: box-shadow 0.3s ease;
+        }
 
-    .card {
-        width: 100%;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
+        .card:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
 
-    .card-img-top {
-        width: 100%;
-        height: 200px;
-        object-fit: cover;
-        border-top-left-radius: 5px;
-        border-top-right-radius: 5px;
-    }
+        .card-body {
+            padding: 20px;
+        }
 
-    .card-body {
-        padding: 20px;
-        display: flex;
-        flex-direction: column;
-    }
+        .card-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
 
-    .card-title {
-        font-size: 18px;
-        font-weight: bold;
-    }
+        .card-text {
+            font-size: 14px;
+            color: #555;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
 
-    .card-text {
-        font-size: 14px;
-        color: #555;
-        flex-grow: 1;
-    }
-
-    .btn-primary {
-        background-color: #f8f9fa; /* Light grey color */
-        color: #333; /* Dark grey color */
-        border: 1px solid #ced4da; /* Dark grey border */
-        transition: #f8f9fa 0.3s ease, border-color 0.3s ease, color 0.3s ease;
-        padding: 10px 20px;
-        text-decoration: none;
-        border-radius: 5px;
-        display: inline-block;
-        margin-top: 10px;
-    }
-
-    .btn-primary:hover {
-        background-color: #e9ecef; /* Lighter grey color on hover */
-        border-color: #ced4da; /* Dark grey border on hover */
-    }
-
-    .btn-primary:focus,
-    .btn-primary:active {
-        background-color: #e9ecef; /* Lighter grey color when clicked or focused */
-        border-color: #adb5bd; /* Lighter grey border when clicked or focused */
-        color: #333; /* Dark grey color */
-        outline: none; /* Remove default focus outline */
-    }
-
-    .btn-primary:active {
-        background-color: #e9ecef; /* Lighter grey color when clicked */
-        border-color: #adb5bd; /* Lighter grey border when clicked */
-    }
-</style>
-
-<div class="grid-container">
-    <div class="card">
-        <img src="project1.png" alt="Project 1" class="card-img-top">
-        <div class="card-body">
-            <h5 class="card-title">Project 1</h5>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at tellus eu risus tincidunt feugiat.</p>
-            <a href="#" class="btn btn-primary">Learn More</a>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card" onclick="toggleDescription(this)">
+                <div class="card-body">
+                    <h5 class="card-title">Project 1</h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at tellus eu risus tincidunt feugiat.</p>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="card">
-        <img src="project1.png" alt="Project 2" class="card-img-top">
-        <div class="card-body">
-            <h5 class="card-title">Project 2</h5>
-            <p class="card-text">Nullam vehicula ligula sit amet tellus ullamcorper, id fermentum arcu maximus.</p>
-            <a href="#" class="btn btn-primary">Learn More</a>
-        </div>
-    </div>
-    <div class="card">
-        <img src="project1.png" alt="Project 3" class="card-img-top">
-        <div class="card-body">
-            <h5 class="card-title">Project 3</h5>
-            <p class="card-text">Fusce ut ligula fermentum, gravida tortor nec, efficitur risus. Sed auctor purus quis varius mollis.</p>
-            <a href="#" class="btn btn-primary">Learn More</a>
-        </div>
-    </div>
-    <div class="card">
-        <img src="project1.png" alt="Project 4" class="card-img-top">
-        <div class="card-body">
-            <h5 class="card-title">Project 4</h5>
-            <p class="card-text">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-            <a href="#" class="btn btn-primary">Learn More</a>
-        </div>
-    </div>
-    <div class="card">
-        <img src="project1.png" alt="Project 5" class="card-img-top">
-        <div class="card-body">
-            <h5 class="card-title">Project 5</h5>
-            <p class="card-text">Vestibulum consectetur orci vitae nisi bibendum, nec consequat quam laoreet. Aliquam vel vehicula felis.</p>
-            <a href="#" class="btn btn-primary">Learn More</a>
-        </div>
-    </div>
-    <div class="card">
-        <img src="project1.png" alt="Project 6" class="card-img-top">
-        <div class="card-body">
-            <h5 class="card-title">Project 6</h5>
-            <p class="card-text">Suspendisse sed mi nec purus fermentum dapibus non nec ipsum. In non risus vitae lorem luctus luctus.</p>
-            <a href="#" class="btn btn-primary">Learn More</a>
-        </div>
-    </div>
+    <!-- Add more cards here if needed -->
 </div>
+
+</body>
