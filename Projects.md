@@ -15,10 +15,12 @@ Project focused on developing a computer vision system to detect drowsiness in i
 <div style="margin: 1em 0;">
 Exploration of different techniques to interpret the result and the logic behind a prediction made by a convolutional neural network (CNN). These techniques aim to make CNNs more transparent by highlighting important regions or features within an input image that contribute to the model's predictions. CNN interpretation techniques are crucial for understanding and debugging models, ensuring they make accurate and meaningful decisions, and for building trust in AI systems by providing human-interpretable insights into their functioning.
 </div>
+<div style="margin-bottom: 1em;">
 - **Pandas:** Data manipulation and analysis
 - **Seaborn:** Data visualization
 - **Tensorflow:** Deep Learning framework library
 - **OpenCV:** Open source library for computer vision
+</div>
 
 ---
 
@@ -26,7 +28,9 @@ Exploration of different techniques to interpret the result and the logic behind
 <div style="margin: 1em 0;">
 Using Transformers to create an English to Cherokee translator, exploring different pre-trained architectures like BERT and Helsinki NLP.
 </div>
+<div style="margin-bottom: 1em;">
 - **Pandas:** Data manipulation and analysis
 - **Tensorflow:** Deep Learning framework library
 - **Simple Transformers:** Natural language processing library
 - **Hugging Face:** Open source data science and machine learning platform
+</div>
