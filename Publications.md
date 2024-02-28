@@ -4,7 +4,7 @@ title: Scientific Publications
 subtitle: Scientific knowledge is a body of statements of varying degrees of certainty - some most unsure, some nearly sure, none absolutely certain.
 ---
 
-#  <a href="https://link.springer.com/article/10.1007/s40200-023-01357-4" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> Machine learning techniques to predict the risk of developing diabetic nephropathy: a literature review </a>
+##  <a href="https://link.springer.com/article/10.1007/s40200-023-01357-4" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> Machine learning techniques to predict the risk of developing diabetic nephropathy: a literature review </a>
 
 Conducted research on Machine Learning approaches to enhance Diabetic Nephropathy risk prediction through comprehensive temporal analysis of clinical data, emphasizing the crucial integration of Electronic Health Records for more reliable models.
 
@@ -12,7 +12,7 @@ Conducted research on Machine Learning approaches to enhance Diabetic Nephropath
 
 ---
 
-# <a href="https://link.springer.com/chapter/10.1007/978-3-031-49018-7_24" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Depression Detection Using Deep Learning and Natural Language Processing Techniques: A Comparative Study</a>
+## <a href="https://link.springer.com/chapter/10.1007/978-3-031-49018-7_24" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Depression Detection Using Deep Learning and Natural Language Processing Techniques: A Comparative Study</a>
 
 This research suggests the use of Natural Language Processing (NLP) techniques to spot signs of depression in tweets, finding success with an 84.83% accuracy using a method called Extra Trees combined with TF-IDF feature extraction method.
 
