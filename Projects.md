@@ -18,7 +18,7 @@ Exploration of different techniques to interpret the result and the logic behind
 
 ---
 
-# <a href="https://github.com/franciscomesquitaAI/Translator-English-to-Cherokee">English to Cherokee translator using Transformers</a>
+# <a href="https://github.com/franciscomesquitaAI/Translator-English-to-Cherokee" style="color: black;">English to Cherokee translator using Transformers</a>
 Using Transformers to create an English to Cherokee translator, exploring different pre-trained architectures like BERT and Helsinki NLP.
 - **Pandas:** Data manipulation and analysis
 - **Tensorflow:** Deep Learning framework library
