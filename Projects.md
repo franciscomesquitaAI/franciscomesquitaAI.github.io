@@ -13,7 +13,7 @@ Project focused on developing a computer vision system to detect drowsiness in i
 <span style="background-color: #BFBFBF; color: black; padding: 5px; border-radius: 5px; margin-right: 5px;">Real-time Object Detection</span>
 <span style="background-color: #F0F0F0; color: black; padding: 5px; border-radius: 5px; margin-right: 5px;">Image Processing</span>
 <span style="background-color: #D9D9D9; color: black; padding: 5px; border-radius: 5px; margin-right: 5px;">Deep Neural Networks</span>
-<span style="background-color: #FFFFFF; color: black; padding: 5px; border-radius: 5px; margin-right: 5px;">Safety Enhancement</span>
+<span style="background-color: #FFFFFF; color: black; padding: 5px; border-radius: 5px; margin-right: 5px;">Safety Ehancement</span>
 
 ---
 
