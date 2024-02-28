@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 10 hard math problems that remain unsolved
+title: Top 10 hardest mathematical problems that remain unsolved
 subtitle: Math problems that have been challenging us for centuries
 cover-img: /assets/img/Default_cover.jpg
-tags: [Science, Mathematics, Puzzle]
+tags: [Science, Mathematics, Web-Article]
 comments: true
 ---
 
