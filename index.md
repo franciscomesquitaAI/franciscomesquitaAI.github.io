@@ -22,5 +22,5 @@ The  **<a href="https://franciscomesquitaai.github.io/Projects" style="color: in
 
 <span class="fa fa-notebook about-icon">
 </span>
-**I believe in the importance of lifelong and continuous learning**. The **<a href="https://franciscomesquitaai.github.io/Publications" style="color: inherit;"><ins>learning notes</ins></a>** page features some notes I write while learning about different topics.
+**I believe in the importance of lifelong and continuous learning**. The **<a href="https://franciscomesquitaai.github.io/LearningNotes" style="color: inherit;"><ins>learning notes</ins></a>** page features some notes I write while learning about different topics.
 
