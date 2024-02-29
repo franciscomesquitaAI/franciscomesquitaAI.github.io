@@ -6,7 +6,7 @@ subtitle: Welcome to my website, take a look and enjoy :D
 
 <span class="fa fa-graduation-cap about-icon">
 </span>
-Obtained my MSc in Computer Engineering, Intelligent Data Analysis from the Polytechnic of Coimbra, Portugal. My master thesis project involved <a href="https://comum.rcaap.pt/handle/10400.26/47587" style="color: inherit;">Longitudinal Machine Learning Modeling for Diabetic Nephropathy with a 22-year patient dataset tracked by the Portuguese Diabetes Association (APDP), enabling precise prediction of disease evolution and fostering personalized healthcare strategies.</a>
+Obtained my MSc in Computer Engineering, Intelligent Data Analysis from the Polytechnic of Coimbra, Portugal. My master thesis project involved <a href="https://comum.rcaap.pt/handle/10400.26/47587" style="color: inherit;"><ins>Longitudinal Machine Learning Modeling for Diabetic Nephropathy with a 22-year patient dataset tracked by the Portuguese Diabetes Association (APDP), enabling precise prediction of disease evolution and fostering personalized healthcare strategies.</ins>ins></a>
 
 <span class="fa fa-briefcase about-icon">
 </span>
