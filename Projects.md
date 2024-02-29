@@ -8,10 +8,10 @@ subtitle: The test of all knowledge is experiment. Experiment is the sole judge 
 <div style="margin-bottom: 5px; margin-top: 1rem;">
 Project aims to develop a computer vision system using YOLO network to detect drowsiness by analyzing facial landmarks and eye movements. It enhances safety, especially in activities like driving, by providing timely alerts to prevent accidents.
 </div>
-- **Pandas:** Data manipulation and analysis
-- **Tensorflow:** Deep Learning framework library
-- **Simple Transformers:** Natural language processing library
-- **Hugging Face:** Open source data science and machine learning platform
+- **PyTorch:** Deep learning framework library
+- **OpenCV:** Open source library for computer vision
+- **LabelImg:** Annotation tool for computer vision.
+- **Matplotlib:** Plotting library for Python data.
 
 ---
 
