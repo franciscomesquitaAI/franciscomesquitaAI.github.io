@@ -20,7 +20,6 @@ Obtained my MSc in **Computer Engineering, Intelligent Data Analysis** from the 
 </span>
 The  **<a href="https://franciscomesquitaai.github.io/Projects" style="color: inherit;"><ins>projects</ins></a>** page is a nice place to see some of my work, but you can also check my **<a href="https://github.com/franciscomesquitaAI" style="color: inherit;"><ins>Github</ins></a>** and **<a href="https://www.kaggle.com/franciscomesquita" style="color: inherit;"><ins>Kaggle</ins></a>** page.
 
-<span class="fa fa-note-sticky about-icon">
+<span class="fa fa-bookmark about-icon">
 </span>
 **I believe in the importance of lifelong and continuous learning**. The **<a href="https://franciscomesquitaai.github.io/LearningNotes" style="color: inherit;"><ins>learning notes</ins></a>** page features some notes I write while learning about different topics.
-
