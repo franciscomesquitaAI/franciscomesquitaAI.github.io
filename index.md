@@ -14,5 +14,5 @@ I'm currently looking for a job in Machine Learning and Data Science field. I've
 
 <span class="fa fa-book-open about-icon">
 </span>
-I absolutely love doing scientifc research. It helps me exploring new ideas, and figuring out how things work. It's like a thrilling adventure where every discovery feels like unlocking a new piece of the puzzle! I usually like to research on the application of machine learning methods in healthcare. The publications page shows all my publications to date.
+I absolutely love doing scientifc research. It helps me exploring new ideas, and figuring out how things work. It's like a thrilling adventure where every discovery feels like unlocking a new piece of the puzzle! The publications page shows all my publications to date.
 
