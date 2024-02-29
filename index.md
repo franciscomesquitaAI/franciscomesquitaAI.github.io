@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Francisco Mesquita
-subtitle: Computer Engineer / Machine Learning Engineer / AI enthusiast
+subtitle: Machine Learning Engineer and researcher / AI enthusiast
 ---
 
 <span class="fa fa-graduation-cap about-icon">
