@@ -31,6 +31,5 @@ I'm **addicted to listening to music** while I work. **I love reading**, and if 
 ---
 
 ### Contact
-"mailto:dean@attalitech.com?subject=Hello from deanattali.com"
 You can <a href="mailto:fg.mesquita@outlook.pt?subject=Hello from franciscomesquitaai.github.io" style="color: inherit;"><ins>email</ins></a> me or find me on <a href="https://www.linkedin.com/in/franciscomesquita-17/" style="color: inherit;"><ins>Linkedin</ins></a> if you want to get in touch. Don't hesitate to send a message!
 
