@@ -23,3 +23,8 @@ The  **<a href="https://franciscomesquitaai.github.io/Projects" style="color: in
 <span class="fa fa-bookmark about-icon">
 </span>
 **I believe in the importance of lifelong and continuous learning**. The **<a href="https://franciscomesquitaai.github.io/LearningNotes" style="color: inherit;"><ins>learning notes</ins></a>** page features some notes I write while learning about different topics.
+
+<span class="fa fa-heart about-icon">
+</span>
+I'm **addicted to listening to music** while I work. **I love reading**, <a href="https://franciscomesquitaai.github.io/LearningNotes" style="color: inherit;"><ins>take a look at what I usually read</ins></a>. For those with a keen eye, you'll realise that **I'm a fan of Richard Feynman** :D
+
