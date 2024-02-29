@@ -10,7 +10,7 @@ Obtained my MSc in **Computer Engineering, Intelligent Data Analysis** from the 
 
 <span class="fa fa-briefcase about-icon">
 </span>
-**I'm currently looking for a job in Machine Learning and Data Science field**. I've worked as a Machine Learning engineer and researcher at the University of Maia and as a full stack web developer at the Pedro Nunes Institute. I've also had experience as a invited assistant professor at the Polytechnic of Coimbra.
+**I'm currently looking for a job in Machine Learning and Data Science field**. I've worked as a Machine Learning engineer and researcher at the University of Maia and as a full stack web developer at the Pedro Nunes Institute. I've also had experience as a invited assistant professor at the Polytechnic of Coimbra. <ins>You can see my resume **<a href="https://franciscomesquitaai.github.io/curriculum" style="color: inherit;">here</ins></a>**.
 
 <span class="fa fa-book-open about-icon">
 </span>
