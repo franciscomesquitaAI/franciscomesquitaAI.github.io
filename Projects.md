@@ -26,17 +26,6 @@ Exploring techniques to interpret Convolutional Neural Networks (CNNs), popular 
 
 ---
 
-# <a href="https://github.com/franciscomesquitaAI/Translator-English-to-Cherokee" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">English to Cherokee translator using Transformers</a>
-<div style="margin-bottom: 5px; margin-top: 1rem;">
-Using Transformers to create an English to Cherokee translator, exploring different pre-trained architectures like BERT and Helsinki NLP.
-</div>
-- **Pandas:** Data manipulation and analysis
-- **Tensorflow:** Deep Learning framework library
-- **Simple Transformers:** Natural language processing library
-- **Hugging Face:** Open source data science and machine learning platform
-
----
-
 # <a href="https://github.com/franciscomesquitaAI/Hearth-Disease-Interpretability-Research" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Interpretable Heart Disease Machine Learning Classifier</a>
 <div style="margin-bottom: 5px; margin-top: 1rem;">
 An analysis of clinical data to predict heart disease in patients. The solution focuses on creating an ML model capable of predicting the disease and showing how the algorithm arrived at its prediction.
@@ -46,3 +35,14 @@ An analysis of clinical data to predict heart disease in patients. The solution 
 - **scikit-learn:** Machine learning models
 - **PyCaret:** Automated machine learning
 - **SHapley Additive exPlanations (SHAP):** Explainable AI
+
+---
+
+# <a href="https://github.com/franciscomesquitaAI/Translator-English-to-Cherokee" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">English to Cherokee translator using Transformers</a>
+<div style="margin-bottom: 5px; margin-top: 1rem;">
+Using Transformers to create an English to Cherokee translator, exploring different pre-trained architectures like BERT and Helsinki NLP.
+</div>
+- **Pandas:** Data manipulation and analysis
+- **Tensorflow:** Deep Learning framework library
+- **Simple Transformers:** Natural language processing library
+- **Hugging Face:** Open source data science and machine learning platform
