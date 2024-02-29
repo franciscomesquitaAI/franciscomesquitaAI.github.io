@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hi, I'm Francisco
-subtitle: Welcome to my website, take a look and enjoy :D
+title: Francisco Mesquita
+subtitle: Machine Learning Engineer and Researcher
 ---
 
 <span class="fa fa-graduation-cap about-icon">
