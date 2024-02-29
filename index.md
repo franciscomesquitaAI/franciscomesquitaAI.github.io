@@ -26,5 +26,5 @@ The  **<a href="https://franciscomesquitaai.github.io/Projects" style="color: in
 
 <span class="fa fa-heart about-icon">
 </span>
-I'm **addicted to listening to music** while I work. **I love reading**, and if you want <a href="https://www.goodreads.com/user/show/145866740-francisco-mesquita" style="color: inherit;"><ins>take a look at what I usually read and what I'm digging into now!</ins></a> For those with a keen eye, you'll realise that **I'm a fan of Richard Feynman** :D
+I'm **addicted to listening to music** while I work. **I love reading**, and if you want <a href="https://www.goodreads.com/user/show/145866740-francisco-mesquita" style="color: inherit;"><ins>take a look at what I usually read and what I'm digging into now!</ins></a> For those with a keen eye, you'll realise that **I'm a fan of Richard Feynman :D**
 
