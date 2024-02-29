@@ -16,3 +16,11 @@ Obtained my MSc in **Computer Engineering, Intelligent Data Analysis** from the 
 </span>
 **I really enjoy doing scientifc research**. It helps me exploring new ideas, and figuring out how things work. It's like a thrilling adventure where every discovery feels like unlocking a new piece of the puzzle! The **<a href="https://franciscomesquitaai.github.io/Publications" style="color: inherit;"><ins>publications</ins></a>** page shows all my publications to date.
 
+<span class="fa fa-file-alt about-icon">
+</span>
+The  **<a href="https://franciscomesquitaai.github.io/Projects" style="color: inherit;"><ins>projects</ins></a>** page is a nice place to see some of my work, but you can also view my **<a href="https://github.com/franciscomesquitaAI" style="color: inherit;"><ins>Github</ins></a>** and **<a href="https://www.kaggle.com/franciscomesquita" style="color: inherit;"><ins>Kaggle</ins></a>** page.
+
+<span class="fa fa-notebook about-icon">
+</span>
+**I believe in the importance of lifelong and continuous learning**. The **<a href="https://franciscomesquitaai.github.io/Publications" style="color: inherit;"><ins>learning notes</ins></a>** page features some notes I write while learning about different topics.
+
