@@ -2,3 +2,6 @@
 [submodule "_posts/Learning_Notes"]
 	path = _posts/Learning_Notes
 	url = https://github.com/franciscomesquitaAI/Learning_Notes.git
+[submodule "Projects/Drowsiness-Detection"]
+	path = Projects/Drowsiness-Detection
+	url = https://github.com/franciscomesquitaAI/Drowsiness-Detection
