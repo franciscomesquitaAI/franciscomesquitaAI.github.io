@@ -255,6 +255,9 @@ date_format: "%B %-d, %Y"
 timezone: "Europe/Lisbon"
 markdown: kramdown
 highlighter: rouge
+kramdown:
+    input: GFM
+    syntax_highlighter: rouge
 #permalink: /:year-:month-:day-:title/
 paginate: 10
 paginate_path: "/LearningNotes/page:num/"
