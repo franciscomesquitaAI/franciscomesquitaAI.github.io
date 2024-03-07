@@ -262,9 +262,6 @@ kramdown:
 paginate: 10
 paginate_path: "/LearningNotes/page:num/"
 
-kramdown:
-  input: GFM
-
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
