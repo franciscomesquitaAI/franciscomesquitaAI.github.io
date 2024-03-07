@@ -4,7 +4,7 @@ title: Projects
 subtitle: The test of all knowledge is experiment. Experiment is the sole judge of scientific 'truth'
 ---
 
-#  <a href="https://franciscomesquitaai.github.io/Projects/2024-03-01-Drowsiness-Detection" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> Drowsiness Detection using YOLO </a>
+#  <a href="https://franciscomesquitaai.github.io/Projects/Drowsiness-Detection" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> Drowsiness Detection using YOLO </a>
 <div style="margin-bottom: 5px; margin-top: 1rem;">
 Project aims to develop a computer vision system using YOLO network to detect drowsiness by analyzing facial landmarks and eye movements. It enhances safety, especially in activities like driving, by providing timely alerts to prevent accidents.
 </div>
