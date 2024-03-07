@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Drowsiness Detection using YOLO
 subtitle: Detect drowsiness by analyzing facial landmarks and eye movements.
 cover-img: /assets/img/Default_cover.jpg
