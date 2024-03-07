@@ -258,7 +258,6 @@ highlighter: rouge
 kramdown:
     input: GFM
     syntax_highlighter: rouge
-    white-space: pre-wrap;
 #permalink: /:year-:month-:day-:title/
 paginate: 10
 paginate_path: "/LearningNotes/page:num/"
