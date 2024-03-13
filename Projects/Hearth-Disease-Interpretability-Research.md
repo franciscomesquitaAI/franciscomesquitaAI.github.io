@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interpretable Heart Disease Machine Learning Classifier
+title: Interpretable Heart Disease ML Classifier
 subtitle: Decoding Cardiovascular Disease - Machine Learning for Early Detection and Interpretability
 cover-img: /assets/img/Default_cover.jpg
 gh-repo: franciscomesquitaAI/Hearth-Disease-Interpretability-Research
