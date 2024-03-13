@@ -26,7 +26,7 @@ Exploring techniques to interpret Convolutional Neural Networks (CNNs), popular 
 
 ---
 
-# <a href="https://github.com/franciscomesquitaAI/Hearth-Disease-Interpretability-Research" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Interpretable Heart Disease Machine Learning Classifier</a>
+# <a href="https://franciscomesquitaai.github.io/Projects/Hearth-Disease-Interpretability-Research" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Interpretable Heart Disease Machine Learning Classifier</a>
 <div style="margin-bottom: 5px; margin-top: 1rem;">
 An analysis of clinical data to predict heart disease in patients. The solution focuses on creating an ML model capable of predicting the disease and showing how the algorithm arrived at its prediction.
 </div>
