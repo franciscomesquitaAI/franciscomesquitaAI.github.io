@@ -15,7 +15,7 @@ Project aims to develop a computer vision system using YOLO network to detect dr
 
 ---
 
-# <a href="https://github.com/franciscomesquitaAI/CNN-Interpretation" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Interpretation of Convolutional Neural Networks (CNNs)</a>
+# <a href="https://franciscomesquitaai.github.io/Projects/CNN-Interpretation" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'">Interpretation of Convolutional Neural Networks (CNNs)</a>
 <div style="margin-bottom: 5px; margin-top: 1rem;">
 Exploring techniques to interpret Convolutional Neural Networks (CNNs), popular deep learning models for image classification. Techniques include GradCAM, Lime, Rise, and more.
 </div>
