@@ -8,3 +8,6 @@
 [submodule "Projects/Hearth-Disease-Interpretability-Research"]
 	path = Projects/Hearth-Disease-Interpretability-Research
 	url = https://github.com/franciscomesquitaAI/Hearth-Disease-Interpretability-Research/
+[submodule "Projects/CNN-Interpretation"]
+	path = Projects/CNN-Interpretation
+	url = https://github.com/franciscomesquitaAI/CNN-Interpretation
