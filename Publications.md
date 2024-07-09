@@ -4,6 +4,14 @@ title: Scientific Publications
 subtitle: Scientific knowledge is a body of statements of varying degrees of certainty - some most unsure, some nearly sure, none absolutely certain.
 ---
 
+##  <a href="https://www.sciencedirect.com/science/article/pii/S0169023X24000636" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> An explainable machine learning approach for automated medical decision support of heart disease </a>
+
+This paper introduces an interpretable machine learning model using SHapley Additive exPlanations (SHAP) for predicting heart disease, comparing various classifiers and parameter tuning techniques. The model matches existing performance while ensuring transparency and reproducibility for future research.
+
+**Published on Data & Knowledge Engineering Journal on 8 July 2024**
+
+---
+
 ##  <a href="https://link.springer.com/article/10.1007/s40200-023-01357-4" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> Machine learning techniques to predict the risk of developing diabetic nephropathy: a literature review </a>
 
 Conducted research on Machine Learning approaches to enhance Diabetic Nephropathy risk prediction through comprehensive temporal analysis of clinical data, emphasizing the crucial integration of Electronic Health Records for more reliable models.
