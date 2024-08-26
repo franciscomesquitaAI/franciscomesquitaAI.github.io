@@ -10,7 +10,7 @@ I Obtained my MSc in **Computer Engineering, Intelligent Data Analysis** from th
 
 <span class="fa fa-briefcase about-icon">
 </span>
-**I'm currently looking for a job in Machine Learning and Data Science fields**. I've worked as a Machine Learning engineer and researcher at the University of Maia and as a full stack web developer at the Pedro Nunes Institute. Furthermore, I’ve held a position as an invited assistant professor at the Polytechnic of Coimbra. You can see my resume **<a href="https://franciscomesquitaai.github.io/curriculum" style="color: inherit;"><ins>here</ins></a>**.
+**I'm currently working as a Machine Learning Engineer at Flawless Workflow**. Previously, I worked as a Machine Learning Engineer and researcher at the University of Maia and as a full stack web developer at the Pedro Nunes Institute. Furthermore, I’ve held a position as an invited assistant professor at the Polytechnic of Coimbra. You can see my resume **<a href="https://franciscomesquitaai.github.io/curriculum" style="color: inherit;"><ins>here</ins></a>**.
 
 <span class="fa fa-book-open about-icon">
 </span>
