@@ -3,7 +3,7 @@ layout: post
 title: Kolmogorov Arnold Networks (KANs)
 subtitle: Exploring the Theoretical Foundations and Applications
 cover-img: /assets/img/Default_cover.jpg
-tags: [ML-DataScience, Method, Paper]
+tags: [ML-DataScience, Method, ML-Model]
 comments: true
 ---
 
