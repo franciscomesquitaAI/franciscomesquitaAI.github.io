@@ -4,6 +4,19 @@ title: Projects
 subtitle: The test of all knowledge is experiment. Experiment is the sole judge of scientific 'truth'
 ---
 
+#  <a href="https://franciscomesquitaai.github.io/Projects/AI_Travel_Assistant" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> AI Travel Assistant </a>
+<div style="margin-bottom: 5px; margin-top: 1rem;">
+The project aims to develop an AI-powered travel assistant that utilizes natural language processing and speech recognition to provide travelers with context-specific phrase suggestions. By analyzing text and audio inputs, it helps users navigate new environments and communicate effectively in different languages, enhancing their travel experience.
+</div>
+- **LangChain:** Framework for building language model-powered applications
+- **Whisper:** Speech-to-text model for accurate audio transcription
+- **Gradio:** User interface library for creating interactive applications
+- **PyTorch:** Deep learning framework for model implementation
+- **FFmpeg:** Multimedia framework for audio processing
+- **OllamaLLM:** Large Language Model (LLM) for generating contextual responses
+
+---
+
 #  <a href="https://franciscomesquitaai.github.io/Projects/Drowsiness-Detection" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> Drowsiness Detection using YOLO </a>
 <div style="margin-bottom: 5px; margin-top: 1rem;">
 Project aims to develop a computer vision system using YOLO network to detect drowsiness by analyzing facial landmarks and eye movements. It enhances safety, especially in activities like driving, by providing timely alerts to prevent accidents.
