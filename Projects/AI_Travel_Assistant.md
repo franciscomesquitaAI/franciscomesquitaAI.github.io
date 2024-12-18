@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Travel Assistant
-subtitle: Breaking Barriers Abroad: AI-Powered Communication and Contextual Travel Assistance
+subtitle: Breaking Barriers Abroad - AI-Powered Communication and Contextual Travel Assistance
 cover-img: /assets/img/Default_cover.jpg
 gh-repo: franciscomesquitaAI/AI_Travel_Assistant
 gh-badge: [star, fork, follow]
