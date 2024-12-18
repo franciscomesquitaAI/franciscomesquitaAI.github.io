@@ -11,3 +11,6 @@
 [submodule "Projects/CNN-Interpretation"]
 	path = Projects/CNN-Interpretation
 	url = https://github.com/franciscomesquitaAI/CNN-Interpretation
+[submodule "Projects/AI_Travel_Assistant"]
+	path = Projects/AI_Travel_Assistant
+	url = https://github.com/franciscomesquitaAI/AI_Travel_Assistant.git
