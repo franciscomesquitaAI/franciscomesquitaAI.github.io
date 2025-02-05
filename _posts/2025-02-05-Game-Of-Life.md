@@ -7,4 +7,6 @@ cover-img: /assets/img/Default_cover.jpg
 comments: true
 ---
 
-{% include_relative Learning_Notes/Informatic-Related/Techniques-Frameworks-Methods-Tools/Game-Of-Life/Game-Of-Life.md %}
+{% include_relative Learning_Notes/Informatic-Related/Techniques-Frameworks-Methods-Tools/Game-Of-Life/Game_Of_Life.md %}
+
+
