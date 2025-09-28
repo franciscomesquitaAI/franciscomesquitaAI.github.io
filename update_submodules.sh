@@ -18,3 +18,6 @@ if ! git diff --quiet || ! git diff --cached --quiet; then
 else
   echo "No changes to commit."
 fi
+
+echo "Done. Press Enter to exit."
+read
