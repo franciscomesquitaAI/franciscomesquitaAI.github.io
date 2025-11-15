@@ -1,7 +1,8 @@
 #!/bin/bash
 set -e  # stop on error
 
-# ... your other commands ...
+echo "Updating submodules..."
+git submodule update --remote --merge
 
 # Commit and push if there are changes
 if ! git diff --quiet --submodule=log; then
