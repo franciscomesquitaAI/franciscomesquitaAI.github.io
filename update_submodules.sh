@@ -1,12 +1,13 @@
 #!/bin/bash
-set -e  # stop on error
+set -e
 
 echo "Updating submodules..."
 git submodule update --remote --merge
 
-# Commit and push if there are changes
-if ! git diff --quiet --submodule=log; then
-  git add .
+# Stage primeiro, depois verifica se há algo para commitar
+git add .
+
+if ! git diff --cached --quiet; then
   git commit -m "update submodule"
   
   echo "Pushing to remote..."

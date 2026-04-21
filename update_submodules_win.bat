@@ -1,3 +1,3 @@
 @echo off
-bash update_submodules.sh
+"C:\Program Files\Git\bin\bash.exe" update_submodules.sh
 pause >nul
