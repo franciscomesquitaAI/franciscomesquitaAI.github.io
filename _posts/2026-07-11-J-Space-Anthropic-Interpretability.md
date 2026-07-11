@@ -1,6 +1,6 @@
 ---
 layout: post
-title: J-Space Anthropic Language Model Interpretability Concept
+title: J-Space Anthropic Model Interpretability
 subtitle: Claude has an internal workspace for deliberate thought.
 cover-img: /assets/img/Default_cover.jpg
 tags: [ML-DataScience, Paper, LLMs]
