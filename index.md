@@ -14,7 +14,7 @@ I Obtained my MSc in **Computer Engineering, Intelligent Data Analysis** from th
 
 <span class="fa fa-book-open about-icon">
 </span>
-**I really enjoy doing scientifc research**. It helps me to explore new ideas, and figure out how things work. It's like a thrilling adventure where every discovery feels like unlocking a new piece of the puzzle! The **<a href="https://franciscomesquitaai.github.io/Publications" style="color: inherit;"><ins>publications</ins></a>** page shows all my publications to date.
+**I really enjoy doing scientific research**. It helps me to explore new ideas, and figure out how things work. It's like a thrilling adventure where every discovery feels like unlocking a new piece of the puzzle! The **<a href="https://franciscomesquitaai.github.io/Publications" style="color: inherit;"><ins>publications</ins></a>** page shows all my publications to date.
 
 <span class="fa fa-file-alt about-icon">
 </span>
