@@ -1,0 +1,53 @@
+---
+layout: page
+title: Fundamentals
+subtitle: What I cannot create, I do not understand.
+---
+
+<style>
+  .fundamentals-map {
+    position: relative;
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    height: 80vh;
+    min-height: 520px;
+    border-top: 1px solid #DDDDDD;
+    border-bottom: 1px solid #DDDDDD;
+    background: #FCFCFC;
+  }
+  .fundamentals-map > svg { width: 100%; height: 100%; }
+  .map-hint { font-size: 0.9rem; color: #777777; }
+</style>
+
+<p>
+  This is where I go back to the fundamentals of AI and rebuild them from the ground up, one topic at a time,
+  explained the way I came to understand them.
+</p>
+
+<p>
+  It is not a book with chapters to read in order. The map below covers the whole territory, from classical search
+  algorithms to the internals of large language models, and I explore it in whatever order curiosity takes me.
+  Each topic gets its own standalone note, linked to the ideas it builds on.
+</p>
+
+<ul>
+  <li><strong>Explained my way.</strong> Text, drawings, diagrams, interactive demos or code written from scratch, whatever made the idea click for me.</li>
+  <li><strong>Built to be understood.</strong> Where it helps, I implement things from scratch before reaching for a framework.</li>
+  <li><strong>Growing over time.</strong> Notes are marked 🌱 seed, 🌿 growing or 🌳 solid, and get revised as later topics teach me something new.</li>
+  <li><strong>Open questions included.</strong> Every note ends with what I still don't understand. That is part of the process.</li>
+</ul>
+
+<h2>The map</h2>
+
+<p class="map-hint">
+  Click a node to expand or collapse it, scroll to zoom and drag to move around.
+  Topics with a published note become links.
+</p>
+
+<div class="markmap fundamentals-map">
+<script type="text/template">
+{% include fundamentals-map.md %}
+</script>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.18.12"></script>
