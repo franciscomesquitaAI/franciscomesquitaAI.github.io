@@ -6,7 +6,7 @@ subtitle: Machine Learning engineer and researcher / AI enthusiast
 
 <span class="fa fa-graduation-cap about-icon">
 </span>
-I Obtained my MSc in **Computer Engineering, Intelligent Data Analysis** from the Polytechnic of Coimbra, Portugal. My master thesis project involved <a href="https://comum.rcaap.pt/handle/10400.26/47587" style="color: inherit;"><ins>Longitudinal Machine Learning Modeling for Diabetic Nephropathy with a 22-year patient dataset tracked by the Portuguese Diabetes Association (APDP).</ins></a>
+I obtained my MSc in **Computer Engineering, Intelligent Data Analysis** from the Polytechnic of Coimbra, Portugal. My master thesis project involved <a href="https://comum.rcaap.pt/handle/10400.26/47587" style="color: inherit;"><ins>Longitudinal Machine Learning Modeling for Diabetic Nephropathy with a 22-year patient dataset tracked by the Portuguese Diabetes Association (APDP).</ins></a>
 
 <span class="fa fa-briefcase about-icon">
 </span>
